@@ -3,7 +3,7 @@
 ### About this Course
 
 </br></br>
-`Duration:` Feb 7, 2024 to Feb 12, 2024 (4 weeks)
+`Duration:` Feb 4, 2024 to Feb 17, 2024 (2 weeks)
 </br></br>
 Course: [https://www.mygreatlearning.com/academy/learn-for-free/courses/statistics-for-data-science](https://www.mygreatlearning.com/academy/learn-for-free/courses/statistics-for-data-science)
 </br></br>
